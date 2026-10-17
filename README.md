@@ -1,1 +1,1 @@
-Learning deep learning
+Deep Learning(ANNs,CNNs,RNNs)
